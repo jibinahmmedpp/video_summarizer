@@ -99,7 +99,7 @@ python orchestrator.py --step=4 --summary summary.txt
   - Current scripts use CPU by default. To enable GPU, update stage2_transcribe.py/stage4_summarize.py to set device appropriately and ensure compatible CUDA drivers.
 
 ## Reference
-- Source video example: [YouTube link](https://www.youtube.com/watch?v=_Td7JjCTfyc)
+- Source video example: [YouTube link](https://youtube.com/shorts/2vBHh7D804o?si=4TXVYzD7d3AV-Pg5)
 
 ## License
 MIT
